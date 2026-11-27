@@ -1,22 +1,22 @@
 ```markdown
-# TalentLens AI  
+# TalentLens  
 ### Recruiter-Focused Resume Analysis and Candidate Ranking Platform
 
 ---
 
 ## 📖 Project Overview
-TalentLens AI is a recruiter-focused resume analysis and candidate ranking platform built using **React** and **Spring Boot Microservices**.  
+TalentLens  is a recruiter-focused resume analysis and candidate ranking platform built using **React** and **Spring Boot Microservices**.  
 It enables recruiters to create users, authenticate via JWT, upload resumes, extract text, analyze resumes, calculate ATS-style scores, rank candidates, and manage candidate information in a centralized dashboard.
 
 ---
 
 ## 🚀 Live Demo
-[TalentLens AI Application](https://resume-ranking-frontend-kohf.onrender.com)
+[TalentLens Application](https://resume-ranking-frontend-kohf.onrender.com)
 
 ---
 
 ## 📂 GitHub Repository
-[Smart AI Resume Analyzer](https://github.com/pratiksha-bawaskar/smart-ai-resume-analyzer)
+[Talentlens Resume Analyzer](https://github.com/pratiksha-bawaskar/smart-ai-resume-analyzer)
 
 ---
 
