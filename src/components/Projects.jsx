@@ -83,7 +83,7 @@ const travelScreenshots = [
               </a>
 
               <a
-                href="https://github.com/pratiksha-bawaskar/smart-ai-resume-analyzer"
+                href="https://github.com/pratiksha-bawaskar/talentlens-resume-analyzer"
                 target="_blank"
                 rel="noopener noreferrer"
               >
